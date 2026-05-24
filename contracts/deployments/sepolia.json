@@ -1,0 +1,11 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployer": "0x27444aF59fE8D23cD7902627AaBB9ACC242Ebe80",
+  "timestamp": "2026-05-24T20:17:12.077Z",
+  "contracts": {
+    "ReputationSystem": "0x61353fB38857E8C3842Cf76de4e9CC63e7e96f70",
+    "WorldCupBetting": "0xe5E3FcC69e9AB860Fb62eB31F24C63a9145f12a5",
+    "MockERC20": "0xE2422d5281aF5c01f8954cAB2d661e73C713981A"
+  }
+}
